@@ -1,4 +1,5 @@
-[![Run on Replit](https://replit.com/badge/github/yourusername/my-first-python-project)](https://replit.com/github/yourusername/my-first-python-project)
+[![Run on Replit](https://replit.com/badge/github/aishhanda/my-first-python-project)](https://replit.com/github/aishhanda/my-first-python-project)
+
 
 # 🧮 Grade Tagger in Python
 
