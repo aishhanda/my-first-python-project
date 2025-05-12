@@ -31,4 +31,4 @@ You can run this project in two ways:
      python grade_tagger.py
      ```
 
-### 📝 Sample Output
+
