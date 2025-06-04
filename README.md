@@ -1,4 +1,4 @@
-[![Run on Replit](https://replit.com/badge/github/aishhanda/my-first-python-project)](https://replit.com/github/aishhanda/my-first-python-project)
+(https://replit.com/@hazerstore0/my-first-python-project-4)
 TYPE IN SHELL: python grade_tagger.py
 
 # 🧮 Grade Tagger in Python
